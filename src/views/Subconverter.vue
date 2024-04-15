@@ -211,7 +211,7 @@ export default {
           V2Ray: "v2ray",
           Trojan: "trojan",
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "http://sub.wfy.one/sub?" }],
         remoteConfig: [
           {
             label: "universal",
